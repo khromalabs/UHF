@@ -1,4 +1,4 @@
-# uhf
+# UHF
 XFCE / Gnome theme friendly with tiling window manages
 I only adapted the images in the xfwm4 directory.
 
