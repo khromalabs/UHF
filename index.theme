@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=UHT
+Comment=Theme friendly with tiling window managers
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=UHF
+MetacityTheme=UHF
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
