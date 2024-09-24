@@ -1,7 +1,7 @@
 /* XPM */
-static char * close_inactive_xpm[] = {
+static char * close_active_xpm[] = {
 "20 6 1 1",
-" 	c #99000C",
+" 	c #D00011",
 "                    ",
 "                    ",
 "                    ",

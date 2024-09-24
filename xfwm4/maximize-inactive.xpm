@@ -1,7 +1,7 @@
 /* XPM */
-static char * maximize_inactive_xpm[] = {
+static char * maximize_active_xpm[] = {
 "20 6 1 1",
-" 	c #1E6615",
+" 	c #37BC27",
 "                    ",
 "                    ",
 "                    ",
